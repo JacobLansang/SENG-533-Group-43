@@ -1,0 +1,27 @@
+[
+    {
+        "ClinicID": 1,
+        "Address": "3 Elmwood Ave",
+        "NumberOfVets": 2
+    },
+    {
+        "ClinicID": 2,
+        "Address": "482 High Noon Avenue",
+        "NumberOfVets": 7
+    },
+    {
+        "ClinicID": 3,
+        "Address": "6 East Marshall Dr",
+        "NumberOfVets": 13
+    },
+    {
+        "ClinicID": 4,
+        "Address": "866 West Miller Street",
+        "NumberOfVets": 4
+    },
+    {
+        "ClinicID": 5,
+        "Address": "825 Railroad Dr",
+        "NumberOfVets": 6
+    }
+]
